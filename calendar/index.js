@@ -1,3 +1,16 @@
+const alertBox = document.getElementById("alertBox");
+        const alertClose = document.getElementById("alertClose");
+
+        window.alert = function(message) {
+            document.getElementById("alertMessage").innerHTML = message;
+            alertClose.onclick = closeAlertBox;
+        }
+        function closeAlertBox(){
+            alertBox.style.visibility = "hidden";
+            alertClose.style.visibility = "hidden";
+        }
+        alert("Предупреждение! Во избежание недопониманий информируем вас, что у некоторых треков неполностью указан состав исполнителей. Полный состав исполнителей вы можете посмотреть, наведя компьютерной мышью на неполно указанного исполнителя.");
+
 const tracks = [
     //january
     "https:\/\/rus.hitmotop.com\/get\/cuts\/97\/26\/97261b6804f5c7b37a982e95d697cd81\/66472747\/NOVOGODNYAYA_PESENKA_-_Novyjj_god_elka_shariki_khlopushki_b128f0d159.mp3", //1
@@ -558,3 +571,4 @@ const tracks = [
                 nextTrack();
             });
         }        
+
