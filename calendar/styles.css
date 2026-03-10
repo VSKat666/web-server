@@ -301,6 +301,12 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     right: 15px;
     }
 }
+
+@media (max-width: 300px)
+.arrow-up {
+    right: 0px;
+}
+
 @media (hover: none) {
     .main-menu__a:hover {
         background-color: #00c6e6;
@@ -326,6 +332,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         padding: 15px 20px 0px;
     }
 }
+
 
 
 
