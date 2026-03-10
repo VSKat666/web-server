@@ -57,7 +57,7 @@ const currentTimeElement = document.getElementById('currentTime');
 const durationElement = document.getElementById('duration');
 const buttons = document.querySelectorAll('.section-play');
 
-let track = 0;
+let track = -1;
 
 document.addEventListener('DOMContentLoaded', function(){
     durationElement.textContent = "0:00";
@@ -272,4 +272,5 @@ function showToast(message) {
   }, 3000);
 
 }
+
 
