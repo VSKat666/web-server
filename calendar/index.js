@@ -402,7 +402,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/f0\/cb\/f0cbec110cf238f7e78700e633cca8ec\/72043555\/Soltwine_-_Vechnoe_siyanie_chistogo_razuma_b128f0d230.mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/73\/3e\/733e389b5058b25ad4c687a15930cecf\/66793065\/Ssshhhiiittt_-_Tancy_b128f0d175.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/9a\/ac\/9aac6d7586caad72907cc0300ad66276\/64644717\/ONE_OK_ROCK_-_Fight_The_Night_b128f0d256.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/96\/95\/9695a13f07c2de0241ef92795c1fe282\/47828252\/Imagine_Dragons_-_Rise_Up_b128f0d231.mp3", //23
+    "https://ru-d3.drivemusic.me/dl/CjIabuuNuvBjpptSdstc3Q/1773179237/download_music/2017/06/imagine-dragons-rise-up.mp3", //23
     "https:\/\/rus.hitmotop.com\/get\/music\/22950831\/Stigmata_-_Sireny_79623523.mp3", //24
     "https:\/\/rus.hitmotop.com\/get\/music\/20200630\/ONE_OK_ROCK_-_The_Way_Back_35xv_Deluxe_Edition_70092078.mp3", //25
     "https://storage1.lightaudio.ru/39922718/15e5a835/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%E2%80%94%20%D0%9E%D0%B4%D0%BD%D0%B0%D0%B6%D0%B4%D1%8B%20%D0%B2%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B5.m3u8", //26
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
