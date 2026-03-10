@@ -156,16 +156,16 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/93\/c2\/93c221909c442acce4a812e947781563\/61703582\/YUlya_Parshuta_-_Mesyac_majj_b128f0d218.mp3", //9
     "https:\/\/rus.hitmotop.com\/get\/cuts\/a4\/79\/a479b5c26ea450ce57375d122977ae8a\/47835999\/MakSim_-_Znaesh_li_ty_b128f0d242.mp3", //10
     "https://track.pinkamuz.pro/download/3331b03430b730b2348f3731353332b63437350100/68378061165a33c29139944f8379cba6/%D0%9B%D1%83%D0%BD%D1%82%D0%B8%D0%BA%20-%20%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8%20%D0%B2%20%D1%82%D0%B8%D1%82%D1%80%D0%B0%D1%85.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/65\/8e\/658ee257900e19f7b7d83097bd182956\/77689967\/Undervud_-_Nadezhdy_malenkijj_orkestrik_b128f0d216.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/7e\/e2\/7ee229c78e1c9d0715056ff041286851\/55745980\/JElektroforez_-_Vsjo_bylo_tak_b128f0d197.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/music\/20230509\/OFFICIAL_HIGE_DANDISM_-_Cry_Baby_75941375.mp3", //14
+    "https://track.pinkamuz.pro/download/33313731b1b43432348c373135b330323534370300/8705a673505dc744fb99535522f7b6fb/%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4%20-%20%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B%20%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BA.mp3", //12
+    "https://track.pinkamuz.pro/download/33313731b1b43432b68837313503b1cc8c00/f7fa78914ae46a27b6ffff5b42eb676b/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%84%D0%BE%D1%80%D0%B5%D0%B7%20-%20%D0%92%D1%81%D1%91%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D1%82%D0%B0%D0%BA.mp3", //13
+    "https://track.pinkamuz.pro/download/33353433323132b6308c373105b20c0c4d2c00/f80e4b01e303493c0992c5605bdeb778/Official%20HIGE%20DANdism%20-%20Cry%20Baby%20%28tiktok%20version%29.mp3", //14
     "https://track.pinkamuz.pro/download/d33536b1b0303130358f3731353332b63432340600/2bbf3bdb31cdca7bf15cdda0da44995b/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%88%D0%BA%D0%B0.%20%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%B3%D1%83%D0%BB%D1%8F%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%9C%D0%B0%D1%81%D0%BB%D0%B5%D0%BD%D0%BE%D0%B9.mp3", //15
     "https://ruo.morsmusic.org/load/15912899/Matvejj_Knyazev_-_Vozmi_(musmore.org).mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250820\/Quest_Pistols_-_Ty_tak_krasiva_79508185.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d1\/45\/d1450562d73134a7927735d8a9265082\/71937902\/Dabro_-_Na_kryshe_b128f0d198.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220222\/Stas_MORE_-_Bud_pervym_73848710.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3a\/84\/3a847add9ecd1984c10e3e8dc9fa9034\/69625411\/Fujii_Kaze_-_Shinunoga_E-Wa_b128f0d186.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a6\/a9\/a6a9c883b92912fcfa3921e5e979478c\/70791748\/Jony_-_Tolko_ty_pari_ty_pari_oblakami_ty_vzletajj_b128f0d235.mp3", //21
+    "https://track.pinkamuz.pro/download/3336373437313531368f373135333130041200/7369e75195d0473342930eb153187ab1/Quest%20Pistols%20-%20%D0%A2%D1%8B%20%D1%82%D0%B0%D0%BA%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0.mp3", //17
+    "https://track.pinkamuz.pro/download/33313731b1b43436348837313533b1343635370100/2870646bda592be662a82938fb964cd8/Dabro%20-%20%D0%9D%D0%B0%20%D0%BA%D1%80%D1%8B%D1%88%D0%B5.mp3", //18
+    "https://track.pinkamuz.pro/download/33313731b1b43434b38c3731353333323233320600/f001f09df03b9646ba0e316261f47dbb/%D0%A1%D1%82%D0%B0%D1%81%20%D0%9C%D0%BE%D1%80%D0%B5%20-%20%D0%91%D1%83%D0%B4%D1%8C%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%BC%21.mp3", //19
+    "https://track.pinkamuz.pro/download/33313731b1b43434318a3731353331363736360000/607fcc5fce9cd73d48bb359b515f8ec2/Fujii%20Kaze%20-%20Shinunoga%20E-Wa.mp3", //20
+"https:\/\/rus.hitmotop.com\/get\/music\/20220403\/Valya_Karnaval_-_Romashki_74019392.mp3", //21
     "https:\/\/rus.hitmotop.com\/get\/cuts\/05\/99\/059931fb7b9b4545a45991ecc7a2eb4f\/48615060\/Nervy_-_Batarei_b128f0d193.mp3", //22
     "https:\/\/rus.hitmotop.com\/get\/cuts\/a7\/66\/a7669814ee968df44ec8078e73334841\/47852367\/Bon_Jovi_-_Its_My_Life_b128f0d223.mp3", //23
     "https:\/\/rus.hitmotop.com\/get\/cuts\/64\/75\/64758cfda05161db53cde74b6c6647e9\/48206841\/BASTA_-_Vypusknojj_Medlyachok_b128f0d335.mp3", //24
@@ -174,8 +174,8 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/42\/ef\/42ef714e5812c2795bf8cc3ea52c1ec7\/48398535\/VIA_Dobry_molodcy_-_CHastushki_Babok_JOzhek_b128f0d74.mp3", //27
     "https:\/\/rus.hitmotop.com\/get\/cuts\/3c\/31\/3c31279ae95325f09fbc402d9c7babae\/63849474\/Bakh_-_KHoralnaya_prelyudiya_fa-minor_b128f0d190.mp3", //28
     "https:\/\/rus.hitmotop.com\/get\/music\/20200607\/ABERRON_-_YA_zdes_69847212.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220403\/Valya_Karnaval_-_Romashki_74019392.mp3", //30
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/11\/eb\/11eb79e761d366354ef82252a52a36cf\/72958637\/Dabro_-_Na_chasakh_nol-nol_b128f0d206.mp3", //31
+    "https:\/\/rus.hitmotop.com\/get\/cuts\/11\/eb\/11eb79e761d366354ef82252a52a36cf\/72958637\/Dabro_-_Na_chasakh_nol-nol_b128f0d206.mp3", //30
+        "https:\/\/rus.hitmotop.com\/get\/cuts\/a6\/a9\/a6a9c883b92912fcfa3921e5e979478c\/70791748\/Jony_-_Tolko_ty_pari_ty_pari_oblakami_ty_vzletajj_b128f0d235.mp3", //31
 
 
     //june
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
