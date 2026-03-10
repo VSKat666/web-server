@@ -267,7 +267,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         padding: 20px;
     }
     #alertClose {
-        text-indent: -3.5px;
+        text-indent: -5.5px;
     }
 }
 @media (max-width: 425px) {
@@ -297,7 +297,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         width: 250px;
     }
     #alertClose {
-        text-indent: -4.5px;
+        text-indent: -6.5px;
     }
     .arrow-up {
     right: 15px;
@@ -323,9 +323,10 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         background-color: #a1a1a1;
     }
 }
-@media (max-width: 470px) and (orientation: landscape) {
+@media (max-width: 600px) and (orientation: landscape) {
     .progress {
         padding: 15px 20px 0px;
     }
 }
+
 
