@@ -85,7 +85,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/music\/20221129\/Bambee_-_Bumble_Bee_75179717.mp3", //5
     "https:\/\/rus.hitmotop.com\/get\/music\/20250921\/Tanin_Jazz_-_Virtualnaya_lyubov_79817779.mp3", //6
     "https:\/\/rus.hitmotop.com\/get\/cuts\/2b\/11\/2b11e4f16beeb0de7564f7df58133a12\/48113982\/Lyudvig_van_Betkhoven_-_Lunnaya_sonata_b128f0d331.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a0\/26\/a026ce5b13453e9200ed716a8c1edb4f\/56774119\/Starset_-_Down_With_The_Fallen_b128f0d257.mp3", //8
+    "https://track.pinkamuz.pro/download/333232b5b434b13432883731353332b63430320200/87b067625367737f612a337ab508eefa/Jazzdauren%20-%20%D0%94%D0%B0%D1%80%D0%B8%D1%82%D0%B5%20%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0%D0%BC%20%D1%86%D0%B2%D0%B5%D1%82%D1%8B%20%28%D0%A6%D0%B2%D0%B5%D1%82%D1%8B%29%20%D0%91%D0%B5%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/9d\/6f\/9d6fb23d6e52d2bfdb575f023f37b4b8\/47880782\/STIGMATA_-_Cunami_b128f0d253.mp3", //9
     "https:\/\/rus.hitmotop.com\/get\/cuts\/3e\/66\/3e66a152cf9e6e210bc0b71cb7c8d18c\/65356641\/Ljosha_Svik_-_Luna_b128f0d276.mp3", //10
     "https:\/\/rus.hitmotop.com\/get\/cuts\/25\/d5\/25d5041be6e67b452c8129c464497335\/73949726\/Imagine_Dragons_-_Bones_b128f0d165.mp3", //11
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
