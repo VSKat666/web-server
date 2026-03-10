@@ -16,8 +16,8 @@ const tracks = [
     "https://track.pinkamuz.pro/download/3334313532b734b334893731353332b63435350100/1dbfe056d67b2c712c2354dbbdf076d6/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%BF%D0%B5%D1%81%D0%B5%D0%BD%D0%BA%D0%B0%20-%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%2C%20%D0%B5%D0%BB%D0%BA%D0%B0%2C%20%D1%88%D0%B0%D1%80%D0%B8%D0%BA%D0%B8%2C%20%D1%85%D0%BB%D0%BE%D0%BF%D1%83%D1%88%D0%BA%D0%B8.mp3", //1
     "https://track.pinkamuz.pro/download/3332373031303330348c3736b6343635b534350600/530beaa24216a5b51d191313756cff4e/019%20%D0%9B%D0%95%D0%9F%D0%A1%20-%20%D0%A0%D1%8E%D0%BC%D0%BA%D0%B0%20%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%BE%D0%BB%D0%B5.mp3",
     "https://track.pinkamuz.pro/download/333332343236313735893731353332b63434360400/a4cba2c7a712ef299cdce3756a8a16b5/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B8%D0%BD%21%20-%203%D0%B8%D0%BC%D0%B0%20%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220424\/Ivasi_Aleksejj_Ivashhenko_Georgijj_Vasilev_-_Berezhkariki_74086502.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250916\/Lida_-_Evrobit_79770926.mp3", //5
+    "https://track.pinkamuz.pro/download/333534353130373589b7b43030303236340400/34298153b874c7524f524b2999c675f0/%D0%98%D0%B2%D0%B0%D1%81%D0%B8%20-%20%D0%91%D0%B5%D1%80%D0%B5%D0%B6%D0%BA%D0%B0%D1%80%D0%B8%D0%BA%D0%B8.mp3", //4
+    "https://ruo.morsmusic.org/load/866648099/Lida_GSPD_-_Evrobit_(musmore.org).mp3", //5
     "https:\/\/rus.hitmotop.com\/get\/cuts\/df\/ce\/dfce48d8b18468921e5f92fc0dc69323\/47872510\/Kipelov_-_YA_svoboden_b128f0d433.mp3", //6
     "https:\/\/rus.hitmotop.com\/get\/cuts\/4e\/56\/4e5697571d1f90329d48eca5e297e9af\/73442385\/Igor_Nikolaev_-_Malinovoe_vino_b128f0d248.mp3", //7
     "https:\/\/rus.hitmotop.com\/get\/cuts\/5a\/e8\/5ae8294a3988c2521116e4ccfbf2ab8c\/50310007\/YUrijj_SHatunov_-_Sedaya_noch_b128f0d334.mp3", //8
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
