@@ -18,16 +18,16 @@ const tracks = [
     "https://track.pinkamuz.pro/download/333332343236313735893731353332b63434360400/a4cba2c7a712ef299cdce3756a8a16b5/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B8%D0%BD%21%20-%203%D0%B8%D0%BC%D0%B0%20%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0.mp3",
     "https://track.pinkamuz.pro/download/333534353130373589b7b43030303236340400/34298153b874c7524f524b2999c675f0/%D0%98%D0%B2%D0%B0%D1%81%D0%B8%20-%20%D0%91%D0%B5%D1%80%D0%B5%D0%B6%D0%BA%D0%B0%D1%80%D0%B8%D0%BA%D0%B8.mp3", //4
     "https://ruo.morsmusic.org/load/866648099/Lida_GSPD_-_Evrobit_(musmore.org).mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/df\/ce\/dfce48d8b18468921e5f92fc0dc69323\/47872510\/Kipelov_-_YA_svoboden_b128f0d433.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/4e\/56\/4e5697571d1f90329d48eca5e297e9af\/73442385\/Igor_Nikolaev_-_Malinovoe_vino_b128f0d248.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5a\/e8\/5ae8294a3988c2521116e4ccfbf2ab8c\/50310007\/YUrijj_SHatunov_-_Sedaya_noch_b128f0d334.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d2\/11\/d211b8b1cfde57c72460558aa4a6dfa3\/75941042\/Imagine_Dragons_-_Demons_b128f0d178.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/27\/9a\/279ad50804f2a69f4f08b31f39554164\/69139853\/Egor_Krid_-_Devochka_s_kartinki_b128f0d148.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ea\/cb\/eacbb17fa8cd88baa65450f6cdf689db\/47870137\/Nervy_-_Rodnojj_gorod_b128f0d210.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20170904\/Lind_Erebros_-_Shadow_Lady_48128113.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/bf\/64\/bf6461584677620174e301c0049b3c4d\/64418061\/ONE_OK_ROCK_feat_5_Seconds_of_Summer_-_Take_What_You_Want_feat_5_Seconds_of_Summer_b128f0d243.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20241102\/BREDISH_-_Na_rukakh_78447902.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20201212\/Darovannyjj_OST_-_Jackie-O_-_Fuyu_no_Hanashi_71940693.mp3", //15
+    "https://ru-d1.drivemusic.me/dl/OT8kIFf_-i9h_XOPNJO-Qw/1773278093/download_music/2013/12/kipelov-ja-svoboden.mp3", //6
+    "https://ru-d2.drivemusic.me/dl/TJTczBizZgTPc6Ppl6VnGg/1773278216/download_music/2017/04/igor-nikolaev-malinovoe-vino.mp3", //7
+    "https://ruo.morsmusic.org/load/551498262/YUrijj_SHatunov_-_Sedaya_noch_(musmore.org).mp3", //8
+    "https://ru-d3.drivemusic.me/dl/RY2fe1AKw7Qalf6FNGsegA/1773278395/download_music/2013/12/imagine-dragons-demons.mp3", //9
+    "https://ruo.morsmusic.org/load/2101526762/Egor_Krid_-_Devochka_s_kartinki_(musmore.org).mp3", //10
+    "https://ruo.morsmusic.org/load/2014265934/Nervy_-_Rodnojj_gorod_(musmore.org).mp3",
+    "https://ruo.morsmusic.org/load/58945962/Lind_Erebros_-_Shadow_Lady_(musmore.org).mp3", //12
+    "https://ru-d1.drivemusic.me/dl/TQi6ip-fRhAyMhlEjUxCAQ/1773279044/download_music/2022/09/one-ok-rock-feat.-5-seconds-of-summer-take-what-you-want.mp3",
+    "https://ruo.morsmusic.org/load/1686773778/BREDISH_-_Na_rukakh_(musmore.org).mp3",
+    "https://ruo.morsmusic.org/load/1727842944/Jackie-O_-_Fuyu_No_Hanashi_From_Given_(musmore.org).mp3", //15
     "https://ruo.morsmusic.org/load/1824583471/SLOT_-_Mertvye_Zvezdy_SLOT_(musmore.org).mp3", //16
     "https://ru-d2.drivemusic.me/dl/_ejLLm1qPDaYkBlKNwSSOg/1773275359/download_music/2025/01/jahmal-tgk-cherno-belyjj-tankograd.mp3",
     "https://ru-d1.drivemusic.me/dl/C7QOG-7hb52_ONNRM9gnzw/1773275304/download_music/2021/07/the-kid-laroi-feat.-justin-bieber-stay.mp3", //18
@@ -202,7 +202,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ee\/30\/ee30a3b22bfb0400456f46e29ffd18c0\/72969637\/Mot_JONY_-_Lilii_b128f0d199.mp3", //21
     "https:\/\/rus.hitmotop.com\/get\/cuts\/3a\/9c\/3a9c236213f522da3053cc02e46107d9\/47921221\/9_gramm_-_Rapapam_b128f0d334.mp3", //22
     "https:\/\/rus.hitmotop.com\/get\/cuts\/59\/50\/5950980c959721272d89ff63beafcf0f\/59996943\/Ariya_-_Bespechnyjj_angel_b128f0d238.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200821\/Lind_Erebros_-_Shadow_Fight_2_-_OST_2014_-_Lind_Erebros_-_Ninja_In_The_Night_70662193.mp3", //24
+    "https://ruo.morsmusic.org/load/283486048/Lind_Erebros_-_Ninja_in_the_Night_(musmore.org).mp3", //24
     "https:\/\/rus.hitmotop.com\/get\/cuts\/52\/24\/522476af5c30cdea04b00dfe7ab4a1f9\/47950443\/OneRepublic_-_Counting_Stars_b128f0d257.mp3", //25
     "https:\/\/rus.hitmotop.com\/get\/cuts\/88\/44\/88443b16c4e28d9d4ac7cb71c975cf98\/71758000\/347aidan_-_Dancing_in_My_Room_b128f0d180.mp3", //26
     "https:\/\/rus.hitmotop.com\/get\/music\/20250812\/Teriyaki_Boyz_-_Tokyo_Drift_Fast_Furious_From_The_Fast_And_The_Furious_Tokyo_Dr_79407836.mp3", //27
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
