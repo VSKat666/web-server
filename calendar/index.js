@@ -280,24 +280,24 @@ const tracks = [
 
 
     //september
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190906\/Nervy_-_ya_tak_khochu_vernutsya_v_my_majj_No_tolko_nastupila_osen_pora_spat_66453649.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/19\/a7\/19a7d404eb5c9a42634f3854b70732ca\/47828249\/Imagine_Dragons_-_Whatever_It_Takes_b128f0d201.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/da\/7d\/da7d043b4b2973995ce01600f98dbcc5\/16810921\/Mikhail_SHufutinskijj_-_Trete_sentyabrya_b128f0d379.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b4\/a0\/b4a0c6ecca058d097d7239ec6e0eaba6\/47828785\/Imagine_Dragons_-_Tiptoe_b128f0d193.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0c\/51\/0c51447a1af43da49fdd99e9e2e157ee\/48402986\/william_-_I_Like_To_Move_It_b128f0d221.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3f\/14\/3f14899b6a6b8d39d676e5ae2a3f3173\/47954602\/System_of_a_Down_-_Lonely_Day_b128f0d167.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8c\/ba\/8cbac83c02b920b788ab0f38a4393aaa\/66725288\/Mafuyu_Sato_-_Fuyu_no_Hanashi_Given_OST_b128f0d206.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c3\/e7\/c3e7de0fb8993ede95808b5dde34359d\/47828673\/Linkin_Park_-_Numb_b128f0d185.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/01\/f1\/01f1df01f2dd07800781f99d6dd5e57f\/49941016\/Stigmata_-_Sentyabr_b128f0d244.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/28\/af\/28af16bfcd1cede94faf53ecd437d295\/47829249\/Nirvana_-_Smells_Like_Teen_Spirit_b128f0d301.mp3", //10
+    "https://ru-d3.drivemusic.me/dl/CXd66FhT4lsoOFcflYwPfQ/1773280744/download_music/2012/09/nervy-majj-bay.mp3", //1
+    "https://ru-d1.drivemusic.me/dl/fYEu23j6jOR6rRzAnJ_yCw/1773280790/download_music/2017/05/imagine-dragons-whatever-it-takes.mp3", //2
+    "https://ru-d2.drivemusic.me/dl/BB0unDm-Ex56BCMcj1wp5A/1773280853/download_music/2020/03/mikhail-shufutinskijj-trete-sentjabrja.mp3", //3
+    "https://ru-d2.drivemusic.me/dl/guMndsM1LgSSMbulDBMAag/1773280908/download_music/2014/05/imagine-dragons-tiptoe.mp3", //4
+    "https://ruo.morsmusic.org/load/1411483038/william_-_I_Like_To_Move_It_(musmore.org).mp3", //5
+    "https://ru-d2.drivemusic.me/dl/tqBqbCAuT6PXJyRJmYO5gQ/1773281042/download_music/2023/03/system-of-a-down-lonely-day.mp3", //6
+    "https://track.pinkamuz.pro/download/3332343336323635328937313533323132b4300000/a4a6c964d7e05ab9b480c82a1f4fd20f/GiVEN%20-%20Fuyu%20No%20Hanashi%20%28Mafuyu%20Song%20%29.mp3", //7
+    "https://ru-d2.drivemusic.me/dl/zkhyt7b4uP2xuIgz-c_syw/1773281290/download_music/2014/02/linkin-park-numb.mp3", //8
+    "https://ruo.morsmusic.org/load/1977852115/Stigmata_-_Sentyabr_(musmore.org).mp3", //9
+    "https://ru-d2.drivemusic.me/dl/8iJGmV28KDB3EXzy1K9z9Q/1773281670/download_music/2020/10/nirvana-smells-like-teen-spirit.mp3", //10
     "https:\/\/rus.hitmotop.com\/get\/music\/20240210\/ONE_OK_ROCK_-_Cry_Out_77422524.mp3", //11
     "https:\/\/rus.hitmotop.com\/get\/cuts\/a9\/ca\/a9caa18078230d44384e0f8de344ca2d\/74741375\/lampabikt_JElli_na_makovom_pole_-_nemereno_b128f0d205.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190310\/Neizvestnyjj_-_Nash_CHelyabinsk_62695962.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/36\/34\/3634d9724189a68fc3d3f1f34b8f8994\/47894286\/Fall_Out_Boy_-_Centuries_b128f0d229.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/91\/54\/9154a1b7b6f16d634e6f20aff81d5a3a\/48615544\/Alan_Walker_-_The_Spectre_b128f0d193.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/bc\/e2\/bce23918625e766668e68206da3f802a\/63523587\/ONE_OK_ROCK_-_Taking_Off_b128f0d218.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200817\/CHernyjj_obelisk_-_Osen_70620314.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3c\/36\/3c363a3d3f4aa4d0fc739a3231019912\/70516528\/aljona_shvec_-_v_kabinete_u_direktora_b128f0d162.mp3", //18
+    "https://track.pinkamuz.pro/download/333335303035b33034893731353332b63430360300/e2346fec751abb26161548567ba36a8a/%D0%93%D0%B8%D0%BC%D0%BD%20-%20%D0%9D%D0%B0%D1%88%20%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA.mp3", //13
+    "https://ru-d1.drivemusic.me/dl/ptW8bhLypeRkKP66lcc_Cw/1773279819/download_music/2014/09/fall-out-boy-centuries.mp3", //14
+    "https://ruo.morsmusic.org/load/332912417/Alan_Walker_-_Spectre_(musmore.org).mp3", //15
+    "https://ru-d3.drivemusic.me/dl/ny2xDn__QKpSVhQJXtTqFw/1773280453/download_music/2022/09/one-ok-rock-taking-off.mp3", //16
+    "https://ru-d3.drivemusic.me/dl/qW8WmiY9qpJuNAK-amEbbA/1773280526/download_music/2024/05/chernyjj-obelisk-osen.mp3", //17
+    "https://ruo.morsmusic.org/load/472779114/aljona_shvec_-_v_kabinete_u_direktora_(musmore.org).mp3", //18
     "https:\/\/rus.hitmotop.com\/get\/cuts\/2a\/9e\/2a9e9f9bb80a899e2281b192ac4f1945\/47828894\/Viktor_Cojj_-_Pachka_sigaret_b128f0d268.mp3", //19
     "https:\/\/rus.hitmotop.com\/get\/cuts\/9d\/c5\/9dc5fbbc34bf6be58bffa0062db07e77\/66751495\/Zivert_-_Credo_b128f0d184.mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/61\/d8\/61d8f95b662275bef3de23e68c6996ca\/74898613\/Kenji_Younezus_Chainsaw_Man_OP_-_KICKBACK_CHelovek-benzopila_opening_b128f0d194.mp3", //21
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
