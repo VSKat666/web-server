@@ -46,20 +46,20 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b43432b188373135330162732300/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%92%D0%B5%D1%82%D0%B5%D1%80.mp3",
 
     //february
-    "https://rus.hitmotop.com/get/cuts/88/84/888444043857800755ce6fefd7b6a0d7/74640917/Imagine_Dragons_-_Believer_b128f0d204.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/08\/11\/0811d97058d97910b13ea848eb7c4f53\/61821289\/The_Score_-_Born_For_This_b128f0d234.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/20\/9a\/209a5db15bd44d858b761a71ac015f33\/70028353\/Zemlyane_-_Trava_u_doma_b128f0d313.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/18\/8e\/188ea21e745d384ceeeee7b426274d9d\/47894866\/Linkin_Park_-_Burn_It_Down_b128f0d231.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/7c\/75\/7c75eebd834bd98289afd08b529a5304\/72662970\/JElektroforez_-_Zlo_b128f0d224.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ce\/93\/ce9306fe6ae399267322bd44c9878529\/47828786\/Imagine_Dragons_-_Its_Time_b128f0d238.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190509\/Tokijjskijj_gul_-_1_sezon_opening_original_64075722.mp3",
+    "https://ru-d1.drivemusic.me/dl/OKUPWmtck-7hHyILtOSWBg/1773364158/download_music/2017/01/imagine-dragons-believer.mp3",
+    "https://ru-d3.drivemusic.me/dl/0OvxDuxEUduGb9PQZrsvRA/1773364224/download_music/2019/02/the-score-born-for-this.mp3", //2
+    "https://ru-d2.drivemusic.me/dl/yi8Bc9Mljw_t7-9VCs0tVA/1773364279/download_music/2019/05/zemljane-trava-u-doma.mp3", //3
+    "https://ru-d3.drivemusic.me/dl/pQzgm3nXbNGvMBMJRJHB9w/1773364319/download_music/2012/04/linkin-park-burn-it-down.mp3", //4
+    "https://ru-d3.drivemusic.me/dl/B_xbEITN1tSEfFkL70-Ktw/1773364370/download_music/2024/11/jelektroforez-zlo.mp3", //5
+    "https://ru-d3.drivemusic.me/dl/E3BJu12gku_iyHFbuT0Owg/1773364429/download_music/2014/07/imagine-dragons-it039s-time.mp3",
+    "https://ruo.morsmusic.org/load/929321279/TK_from_Ling_tosite_sigure_-_Unravel_(musmore.org).mp3",
     "https://track.pinkamuz.pro/download/3336b13432b7303432893731353332313031300400/d29306176cd14cb222ff3ddfb1780630/Lind%20Erebros%20-%20The%20Master%20of%20the%20Skills.mp3",
     "https://muz.zvukofon.com/dl/909837417/Camellia_-_Final-Boss-Chan_(musportal.org).mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20201224\/Mariya_Mirova_-_Padaem_i_vzletaem_72080052.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200404\/ONE_OK_ROCK_-_Good_Goodbye_e_69053167.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d6\/17\/d617680d72d718ae33775395bd2a6b5e\/57658982\/Rammstein_-_Sonne_b128f0d272.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0d\/67\/0d674bbd913f60ecf729b0b159d95391\/66563246\/Starset_-_PERFECT_MACHINE_b128f0d324.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200304\/Zivert_-_YATL_68632866.mp3",
+    "https://track.pinkamuz.pro/download/333230303032353236308f3731353332313530b40400/d9d90b5cd672c0036df36425aa2f8b97/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%20%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%20-%20%D0%9F%D0%B0%D0%B4%D0%B0%D0%B5%D0%BC%20%D0%B8%20%D0%B2%D0%B7%D0%BB%D0%B5%D1%82%D0%B0%D0%B5%D0%BC.mp3",
+    "https://ru-d2.drivemusic.me/dl/G91uG-Z4NZk4VxZCC2mgsw/1773364740/download_music/2022/09/one-ok-rock-good-goodbye.mp3",
+    "https://ru-d1.drivemusic.me/dl/INb15xWfoB4rD2g6yx7E7Q/1773364861/download_music/2021/01/rammstein-sonne.mp3", //12
+    "https://ru-d1.drivemusic.me/dl/9neKFOSThQRRPmQGbvIFUw/1773364928/download_music/2022/09/starset-perfect-machine.mp3",
+    "https://ru-d1.drivemusic.me/dl/Ww76kRof1V5mSIfjIj76KQ/1773364990/download_music/2020/02/zivert-jatl.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20220602\/POLMATERI_-_YArche_zvezd_Speed_Up_74371295.mp3", //15
     "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/bb\/cdbb13dde634d27ff4adb9b85e93091a\/60919600\/Dajjte_tank_-_My_b128f0d183.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/07\/9e\/079e085463322cb5c0b9a7fd62ab33ae\/47829292\/Imagine_Dragons_-_It_Comes_Back_To_You_b128f0d217.mp3", //17
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
