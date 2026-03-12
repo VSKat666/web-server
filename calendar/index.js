@@ -61,17 +61,17 @@ const tracks = [
     "https://ru-d1.drivemusic.me/dl/9neKFOSThQRRPmQGbvIFUw/1773364928/download_music/2022/09/starset-perfect-machine.mp3",
     "https://ru-d1.drivemusic.me/dl/Ww76kRof1V5mSIfjIj76KQ/1773364990/download_music/2020/02/zivert-jatl.mp3",
     "https://github.com/VSKat666/web-serve/blob/main/img/%D0%9F%D0%BE%D0%BB%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8_-_%D1%8F%D1%80%D1%87%D0%B5_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4__%D0%91%D0%B5%D0%B7_%D0%BC%D0%B0%D1%82%D0%B0___speed_up___TikTok_remix_.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/bb\/cdbb13dde634d27ff4adb9b85e93091a\/60919600\/Dajjte_tank_-_My_b128f0d183.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/07\/9e\/079e085463322cb5c0b9a7fd62ab33ae\/47829292\/Imagine_Dragons_-_It_Comes_Back_To_You_b128f0d217.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/music\/20221008\/bahroma_-_poka-pora_speed_up_74763239.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1e\/d6\/1ed609208c2de86a807cd85eb2541198\/47954772\/Scorpions_-_Rock_You_Like_a_Hurricane_b128f0d253.mp3", //19
+    "https://ruo.morsmusic.org/load/559126444/Dajjte_tank_-_My_(musmore.org).mp3",
+    "https://ru-d3.drivemusic.me/dl/DZ3J3S9XrA977csuJAyt5A/1773366163/download_music/2015/02/imagine-dragons-it-comes-back-to-you.mp3", //17
+    "https://track.pinkamuz.pro/download/333233343633303537883731353332313430b60000/dba497cb9375821007242110face63ca/bahroma%20-%20%D0%BF%D0%BE%D0%BA%D0%B0-%D0%BF%D0%BE%D1%80%D0%B0%20%28speed%20up%29.mp3", //18
+    "https://ru-d1.drivemusic.me/dl/ueqzsUsgGScXCaPs4QzBqQ/1773366416/download_music/2020/10/scorpions-rock-you-like-a-hurricane.mp3", //19
     "https://track.pinkamuz.pro/download/33b5343636b334b0b08c373135333231b030b40400/3c75161cf9d249a0b2a2badea27e40e8/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20-%20Tyler%2C%20The%20Creator%20NEW%20MAGIC%20WAND%20Instrumental%20FNAF%20Remix.mp3", //20
     "https://ru-d1.drivemusic.me/dl/Nr7OfJw3MRLFAhVkiMob3A/1773273049/download_music/2020/03/led-zeppelin-rock-and-roll.mp3",
     "https://ru-d1.drivemusic.me/dl/jEXuWLL6E9KQhCz9FjBMPQ/1773273210/download_music/2014/09/iowa-marshrutka.mp3", //22
     "https://ruo.morsmusic.org/load/1593353507/KINO_-_Gruppa_krovi_(musmore.org).mp3",
     "https://ru-d3.drivemusic.me/dl/0w55I6M5-js7joVu-KGZHw/1773273456/download_music/2024/09/poshlaja-molli-non-stop.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250731\/Marino_-_Devil_in_Disguise_79355118.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c7\/0c\/c70c277400976ea171fbe222c4ed1206\/47829721\/Zveri_-_Rajjony-kvartaly_b128f0d198.mp3",
+    "https://ru-d3.drivemusic.me/dl/GEAu9e3fJfNgqUuzPCiI_w/1773366480/download_music/2025/07/marino-devil-in-disguise.mp3", //25
+    "https://ru-d1.drivemusic.me/dl/304d2_sVXiDeVAPlAP3wcg/1773366532/download_music/2020/12/zveri-rajjony-kvartaly.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ee\/cc\/eecc32abb433b3850cd09b02c1669210\/73067110\/DIGIMORTAL_-_Krovyu_b128f0d202.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20250719\/Starset_-_dark_things_79316297.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/c8\/1e\/c81e1c85d41108ad2e18a3614bb33f63\/62935867\/Imagine_Dragons_-_Im_So_Sorry_b128f0d230.mp3", //29
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
