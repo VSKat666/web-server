@@ -145,12 +145,12 @@ const tracks = [
 
 
     //may
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250822\/GIMS_-_Est-ce_que_tu_maimes_-_Sped_up_79525431.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240526\/Starset_-_Brave_New_World_77859642.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/music\/20180301\/Queen_of_Darts_-_Bad_Karma_54203144.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/music\/20251114\/Dima_Bilan_-_YA_nochnojj_khuligan_80229052.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c9\/37\/c937c69ac6bb7e5e8238933f5de355f4\/67428991\/Carla_-_Bim_Bam_toi_b128f0d174.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ab\/4c\/ab4cc462752b9e188591b85a734919f6\/955221\/Kino_-_Ranshe_v_tvoikh_glazakh_otrazhalis_kostry_b128f0d143.mp3", //6
+    "https://ru-d1.drivemusic.me/dl/A_ourDA2zAZLRvrOWkG9xg/1773347674/download_music/2025/04/maitre-gims-est-ce-que-tu-m039aimes-sped-up.mp3", //1
+    "https://track.pinkamuz.pro/download/33b430b63431b230338e3731353332313131320300/bf211c2f1460eb6dfbbd4cb86939275a/Starset%20-%20Brave%20New%20World.mp3", //2
+    "https://rmr.muzmo.cc/get/music/20180301/Queen_of_Darts_-_Bad_Karma_54203144.mp3", //3
+    "https://ru-d2.drivemusic.me/dl/vVL-rRdSgT6gZNgBNTdnsQ/1773347917/download_music/2014/05/dima-bilan-nochnojj-khuligan.mp3", //4
+    "https://ru-d1.drivemusic.me/dl/zmYyD3WrmjMvMTUf2yaWZw/1773347963/download_music/2024/04/carla-bim-bam-toi.mp3", //5
+    "https://ru-d2.drivemusic.me/dl/o0LjYAe_xId1vEEqpVANmg/1773348052/download_music/2017/07/kino-ranshe-v-tvoikh-glazakh....mp3", //6
     "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/eb\/cdebbc95ca2ce446f51e96d2822c86c1\/68945399\/Picca_-_Ulybka_b128f0d184.mp3", //7
     "https:\/\/rus.hitmotop.com\/get\/cuts\/1c\/d5\/1cd5ab0c1664792107413ba99936dcc2\/75132249\/Polina_Gagarina_-_Babochki_b128f0d188.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/93\/c2\/93c221909c442acce4a812e947781563\/61703582\/YUlya_Parshuta_-_Mesyac_majj_b128f0d218.mp3", //9
@@ -165,17 +165,17 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b43436348837313533b1343635370100/2870646bda592be662a82938fb964cd8/Dabro%20-%20%D0%9D%D0%B0%20%D0%BA%D1%80%D1%8B%D1%88%D0%B5.mp3", //18
     "https://track.pinkamuz.pro/download/33313731b1b43434b38c3731353333323233320600/f001f09df03b9646ba0e316261f47dbb/%D0%A1%D1%82%D0%B0%D1%81%20%D0%9C%D0%BE%D1%80%D0%B5%20-%20%D0%91%D1%83%D0%B4%D1%8C%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%BC%21.mp3", //19
     "https://track.pinkamuz.pro/download/33313731b1b43434318a3731353331363736360000/607fcc5fce9cd73d48bb359b515f8ec2/Fujii%20Kaze%20-%20Shinunoga%20E-Wa.mp3", //20
-"https:\/\/rus.hitmotop.com\/get\/music\/20220403\/Valya_Karnaval_-_Romashki_74019392.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/05\/99\/059931fb7b9b4545a45991ecc7a2eb4f\/48615060\/Nervy_-_Batarei_b128f0d193.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a7\/66\/a7669814ee968df44ec8078e73334841\/47852367\/Bon_Jovi_-_Its_My_Life_b128f0d223.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/64\/75\/64758cfda05161db53cde74b6c6647e9\/48206841\/BASTA_-_Vypusknojj_Medlyachok_b128f0d335.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ce\/be\/cebecceba1c432379481e6b25d7852df\/62843649\/ONE_OK_ROCK_-_Stuck_in_the_Middle_original_ver_b128f0d213.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d1\/9e\/d19ee29e4bc8a19173a6428cb34b09be\/48351326\/Valerijj_Gergiev_Simfonicheskijj_orkestr_Mariinskogo_teatra_Modest_Petr_-_Progulka_iz_cikla_Kartinki_s_vystavki_v_orkestrovke_M_Ravelya_b128f0d95.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/42\/ef\/42ef714e5812c2795bf8cc3ea52c1ec7\/48398535\/VIA_Dobry_molodcy_-_CHastushki_Babok_JOzhek_b128f0d74.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3c\/31\/3c31279ae95325f09fbc402d9c7babae\/63849474\/Bakh_-_KHoralnaya_prelyudiya_fa-minor_b128f0d190.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200607\/ABERRON_-_YA_zdes_69847212.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/11\/eb\/11eb79e761d366354ef82252a52a36cf\/72958637\/Dabro_-_Na_chasakh_nol-nol_b128f0d206.mp3", //30
-        "https:\/\/rus.hitmotop.com\/get\/cuts\/a6\/a9\/a6a9c883b92912fcfa3921e5e979478c\/70791748\/Jony_-_Tolko_ty_pari_ty_pari_oblakami_ty_vzletajj_b128f0d235.mp3", //31
+    "https://track.pinkamuz.pro/download/33333137b134b230308f3731353332b63435320600/8c3bfca5cc0410cbec841bc31a26c9e3/%D0%92%D0%B0%D0%BB%D1%8F%20%D0%9A%D0%B0%D1%80%D0%BD%D0%B0%D0%B2%D0%B0%D0%BB%20-%20%D1%80%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B8.mp3", //21
+    "https://ru-d1.drivemusic.me/dl/fUOFV8Lr8cCq8v1zRFkQoQ/1773345686/download_music/2023/08/nervy-batarei.mp3", //22
+    "https://ru-d2.drivemusic.me/dl/8OMquSGNfchHwtc2Jxjbkg/1773345816/download_music/2014/02/bon-jovi-its-my-life.mp3", //23
+    "https://ru-d1.drivemusic.me/dl/_qHFuS8y9ZKYPTpRWZ6k7A/1773345868/download_music/2016/05/basta-vypusknojj-medljachok.mp3", //24
+    "https://ru-d1.drivemusic.me/dl/MsBGaP0g6IC1dttNnVHUgw/1773346398/download_music/2022/09/one-ok-rock-stuck-in-the-middle.mp3", //25
+    "https://ruo.morsmusic.org/load/294701897/Valerii_Gergiev_Simfonicheskijj_orkestr_Mariinskogo_teatra_Modest_Petrovich_Musorgskijj_-_Progulka_iz_cikla_Kartinki_s_vystavki_v_orkestrovke_M_Ravelya_(musmore.org).mp3", //26
+    "https://ruo.morsmusic.org/load/385233355/VIA_Dobry_molodcy_-_CHastushki_Babok_JOzhek_(musmore.org).mp3" //27
+    "https://track.pinkamuz.pro/download/333230303035303335348a3731353332b63437310200/39f336f7314adc928bcf5e0160840274/%D0%98.%D0%A1.%20%D0%91%D0%B0%D1%85%20-%20%D0%A5%D0%BE%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%BB%D1%8E%D0%B4%D0%B8%D1%8F%20%D1%84%D0%B0%20%D0%BC%D0%B8%D0%BD%D0%BE%D1%80.mp3", //28
+    "https://track.pinkamuz.pro/download/33313731b1b434b2348937313533313132b5300200/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%AF%20%D0%B7%D0%B4%D0%B5%D1%81%D1%8C.mp3", //29
+    "https://ru-d1.drivemusic.me/dl/2LQUXxY-Vi6roOzOO0H3Ww/1773347372/download_music/2021/05/dabro-na-chasakh-nol-nol.mp3", //30
+    "https://ru-d1.drivemusic.me/dl/VDtALoEmKOhM4uUSrPKuVQ/1773347589/download_music/2020/08/jony-ty-pari.mp3", //31
 
 
     //june
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
