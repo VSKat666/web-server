@@ -60,7 +60,7 @@ const tracks = [
     "https://ru-d1.drivemusic.me/dl/INb15xWfoB4rD2g6yx7E7Q/1773364861/download_music/2021/01/rammstein-sonne.mp3", //12
     "https://ru-d1.drivemusic.me/dl/9neKFOSThQRRPmQGbvIFUw/1773364928/download_music/2022/09/starset-perfect-machine.mp3",
     "https://ru-d1.drivemusic.me/dl/Ww76kRof1V5mSIfjIj76KQ/1773364990/download_music/2020/02/zivert-jatl.mp3",
-    "https://github.com/VSKat666/web-serve/blob/main/img/%D0%9F%D0%BE%D0%BB%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8_-_%D1%8F%D1%80%D1%87%D0%B5_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4__%D0%91%D0%B5%D0%B7_%D0%BC%D0%B0%D1%82%D0%B0___speed_up___TikTok_remix_.mp3", //15
+    "https://vskat666.github.io/web-serve/img/%D0%9F%D0%BE%D0%BB%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8_-_%D1%8F%D1%80%D1%87%D0%B5_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4__%D0%91%D0%B5%D0%B7_%D0%BC%D0%B0%D1%82%D0%B0___speed_up___TikTok_remix_.mp3", //15
     "https://ruo.morsmusic.org/load/559126444/Dajjte_tank_-_My_(musmore.org).mp3",
     "https://ru-d3.drivemusic.me/dl/DZ3J3S9XrA977csuJAyt5A/1773366163/download_music/2015/02/imagine-dragons-it-comes-back-to-you.mp3", //17
     "https://track.pinkamuz.pro/download/333233343633303537883731353332313430b60000/dba497cb9375821007242110face63ca/bahroma%20-%20%D0%BF%D0%BE%D0%BA%D0%B0-%D0%BF%D0%BE%D1%80%D0%B0%20%28speed%20up%29.mp3", //18
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
