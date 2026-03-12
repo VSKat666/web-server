@@ -350,7 +350,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ac\/4d\/ac4d681dbb256220e84430d8af32729e\/47837699\/tATu_-_Nas_ne_dogonyat_b128f0d261.mp3", //1
     "https:\/\/rus.hitmotop.com\/get\/cuts\/19\/aa\/19aa304c44b9812800adbe2704516263\/72097810\/20TOKENS_-_YA_SOSHEL_S_UMA_b128f0d143.mp3", //2
     "https:\/\/rus.hitmotop.com\/get\/cuts\/5f\/18\/5f18bcee38be4fc4eb0a3d27c0510349\/47830059\/ACDC_-_Highway_to_Hell_b128f0d208.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/music\/20251219\/ZXKAI_SLXUGHTER_-_NO_BATIDO_80493517.mp3", //4
+    "https://Imusic.kz/api/download/297846", //4
     "https:\/\/rus.hitmotop.com\/get\/cuts\/9c\/5b\/9c5b919faa6d802d73a2f49053b3c63c\/48035647\/A_-_Studio_-_Uletayu_b128f0d200.mp3", //5
     "https:\/\/rus.hitmotop.com\/get\/music\/20200713\/Zivert_-_Beverly_Hills_70239416.mp3", //6
     "https:\/\/rus.hitmotop.com\/get\/cuts\/7c\/42\/7c4205d489791c89b3bf97b1ca1241fb\/47829307\/Imagine_Dragons_-_Monster_b128f0d249.mp3", //7
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
