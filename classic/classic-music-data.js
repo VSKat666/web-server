@@ -2,7 +2,7 @@ const tracks = [
     //радость
     "https://track.pinkamuz.pro/download/d33536b1b0303130358f3731353332b63432340600/2bbf3bdb31cdca7bf15cdda0da44995b/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%88%D0%BA%D0%B0.%20%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%B3%D1%83%D0%BB%D1%8F%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%9C%D0%B0%D1%81%D0%BB%D0%B5%D0%BD%D0%BE%D0%B9.mp3",
     "https://track.pinkamuz.pro/download/33b53430b33034b1348d3731353332b63430370600/7221edd7bec71bc498f75a88692f0bea/%D0%99%20%D0%93%D0%B0%D0%B9%D0%B4%D0%BD%20-%20%D0%A1%D0%BE%D0%BD%D0%B0%D1%82%D0%B0%20%D0%A0%D0%B5%20%D0%BC%D0%B0%D0%B6%D0%BE%D1%80.%201%20%D1%87%D0%B0%D1%81%D1%82%D1%8C..mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d1\/9e\/d19ee29e4bc8a19173a6428cb34b09be\/48351326\/Valerijj_Gergiev_Simfonicheskijj_orkestr_Mariinskogo_teatra_Modest_Petr_-_Progulka_iz_cikla_Kartinki_s_vystavki_v_orkestrovke_M_Ravelya_b128f0d95.mp3",
+    "https://ruo.morsmusic.org/load/294701897/Valerii_Gergiev_Simfonicheskijj_orkestr_Mariinskogo_teatra_Modest_Petrovich_Musorgskijj_-_Progulka_iz_cikla_Kartinki_s_vystavki_v_orkestrovke_M_Ravelya_(musmore.org).mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20191111\/riderik_SHopen_-_Polonez_soch_40_-_1_lya_mazhor_Voennyjj_67249765.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/4a\/b4\/4ab4e72cf6ff12f804df153cd2563372\/15475\/Wolfgang_Amadeus_Mozart_-_Tureckijj_marsh_b128f0d212.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/bb\/4e\/bb4e6c115f30100bbcccbc5f20b2ea09\/48352993\/Yuri_Temirkanov_St_Petersburg_Philharmonic_Orchestra_Dmitrijj_Dmitrievich_SHostakovich_-_Simfoniya_7_Leningradskaya_1_chast_b128f0d1675.mp3",
@@ -272,5 +272,6 @@ function showToast(message) {
   }, 3000);
 
 }
+
 
 
